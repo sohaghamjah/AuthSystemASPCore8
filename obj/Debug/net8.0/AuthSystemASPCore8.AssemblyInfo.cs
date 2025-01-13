@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthSystemASPCore8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59c84afeb8f881a24c917604c0bda0ff7a803793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbee0d3589b11df073a82590b3c9715410217722")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthSystemASPCore8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthSystemASPCore8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
